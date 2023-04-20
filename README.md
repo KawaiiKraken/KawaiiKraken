@@ -1,5 +1,5 @@
 ## Banner
-<img src="assets/banner_cropped.svg" width=900)/>
+<img src="assets/banner_new.svg" width=600)/>
 
 ## Most used languages
 
