@@ -1,3 +1,6 @@
+## Banner
+![banner](assets/banner.svg)
+
 ## Most used languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
