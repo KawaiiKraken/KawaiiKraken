@@ -17,3 +17,4 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=powershell)
 
 ##### Oh, and that's me! --> くコ:彡 
+###### I use Arch, btw
