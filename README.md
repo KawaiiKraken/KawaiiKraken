@@ -1,5 +1,5 @@
 ## Banner
-![banner](assets/banner.svg)
+![banner](assets/banner_cropped.svg)
 
 ## Most used languages
 
