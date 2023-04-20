@@ -16,4 +16,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=powershell)
 
-##### Oh, and that me! --> くコ:彡 
+##### Oh, and that's me! --> くコ:彡 
