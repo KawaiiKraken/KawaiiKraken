@@ -1,4 +1,3 @@
-## Banner
 <img src="assets/another_banner.png" width=900)/>
 
 ## Most used languages
