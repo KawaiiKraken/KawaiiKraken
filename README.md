@@ -4,6 +4,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![Bash](assets/Bash.svg)
 
 ## Currently learning
